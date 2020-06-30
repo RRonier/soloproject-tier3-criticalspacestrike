@@ -59,7 +59,7 @@ Tier 3 **MUST** include a back-end to allow the player's name(optional) and scor
 <p align="center">
   
 <img src="images/CSS-tier3.gif" width="200" height="300"/>
-
+<img src="images/Scores.png" width="200" height="300"/>
   </p>
   
 **Extras (Not Required)**
