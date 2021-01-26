@@ -18,6 +18,19 @@ This project is a great opportunity to develop a game. Critical Space Strike was
 
 **You May Use the Stack of Your Choice!**
 
+## About Chingu
+
+If you aren’t yet a member of Chingu we invite you to join us. We help our 
+members transform what they’ve learned in courses & tutorials into the 
+practical experience employers need and want.
+
+Our remote team projects let you refine your technical skills and put them 
+into practice while gaining new “soft” skills like communication, 
+collaboration, and Agile project management. The types of skills that 
+help real-world teams get things done!
+
+You can learn more and join us at [chingu.io](https://chingu.io).
+
 ## Instructions ##
 
 Tier 3 **MUST** include a back-end to allow the player's name(optional) and score(required) to be added to the database. General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the #read-me-first channel on Discord).
